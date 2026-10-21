@@ -47,7 +47,7 @@ export default function Home() {
 
       <section className="status-strip" aria-label="Estado del despliegue">
         <div><span className="status-dot" /><strong>Frontend activo</strong></div>
-        <span>Next.js 14</span><span>Nginx como proxy</span><span>PM2 en producción</span>
+        <span>Next.js 15</span><span>Nginx como proxy</span><span>PM2 en producción</span>
       </section>
 
       <section className="contact-section" id="contacto">
