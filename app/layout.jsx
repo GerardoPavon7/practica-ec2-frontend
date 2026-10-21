@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Nexo | Frontend en AWS EC2',
-  description: 'Frontend de demostración desplegado en una instancia EC2 con Nginx y PM2.',
+  title: 'Práctica 6 | Frontend en AWS EC2',
+  description: 'Frontend de ejemplo desplegado en una máquina virtual EC2.',
 };
 
 export default function RootLayout({ children }) {
