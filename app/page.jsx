@@ -2,8 +2,8 @@ export default function Home() {
   return (
     <main className="container">
       <header>
-        <h1>Práctica 6: Frontend en AWS EC2</h1>
-        <p>Aplicación de ejemplo desplegada en una máquina virtual.</p>
+        <h1>Práctica 8: Azure Static Web Apps</h1>
+        <p>Frontend publicado desde GitHub en Azure.</p>
       </header>
 
       <section>
@@ -14,13 +14,13 @@ export default function Home() {
       <section>
         <h2>Servicios utilizados</h2>
         <ul>
-          <li>Next.js 15 para crear el frontend.</li>
-          <li>Node.js y PM2 para ejecutar la aplicación.</li>
-          <li>Nginx como proxy web en la máquina EC2.</li>
+          <li>Next.js 15 y React para crear el frontend.</li>
+          <li>Azure Static Web Apps para publicar la aplicación.</li>
+          <li>GitHub Actions para automatizar el despliegue.</li>
         </ul>
       </section>
 
-      <footer>Laboratorio 6 · AWS</footer>
+      <footer>Práctica 8 · Azure</footer>
     </main>
   );
 }

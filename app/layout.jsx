@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Práctica 6 | Frontend en AWS EC2',
-  description: 'Frontend de ejemplo desplegado en una máquina virtual EC2.',
+  title: 'Práctica 8 | Azure Static Web Apps',
+  description: 'Frontend publicado con Azure Static Web Apps.',
 };
 
 export default function RootLayout({ children }) {
